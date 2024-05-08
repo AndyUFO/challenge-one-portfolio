@@ -121,6 +121,7 @@ section.menu {
 .title__profile {
   width: 98px;
   height: 98px;
+  border-radius: 50%;
 }
 
 .title__container {
@@ -370,7 +371,7 @@ section.menu {
   gap: 10px;
 }
 
-.academic__courses__item__img > img {
+.academic__courses__item__img  img {
   width: 84px;
   height: 58px;
 }
